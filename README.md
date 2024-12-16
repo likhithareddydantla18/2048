@@ -7,6 +7,8 @@ In my repo there are small experiments on python projects
 * Clone the Repository.
 * Open command prompt from where the python files exist.
 * Start compiling code and execution 
-````python FILENAME.PY´´´´
+````
+python FILENAME.PY
+´´´´
 * Finally we get our output.
  
