@@ -6,9 +6,9 @@ In my repo there are small experiments on python projects
 # Execution :
 * Clone the Repository.
 * Open command prompt from where the python files exist.
-* Start compiling code and execution 
-````
+* Start compiling code and execution
+```
 python FILENAME.PY
-´´´´
+```
 * Finally we get our output.
  
